@@ -1,3 +1,16 @@
+# mango-node
+
+> This is a Node library that allows interaction with [Mango API](https://developers.getmango.com/en/api/?platform=node)
+
+## Installation
+
+```
+$ npm install Mango
+```
+
+## Documentation
+Documentation is available at https://developers.getmango.com/en/api/?platform=node
+
 ## Usage
 
 ### Import the library and set your secret API key:
